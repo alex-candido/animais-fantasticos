@@ -7,6 +7,6 @@ Projeto desenvolvido utilizando HTML, CSS e JavaScript, acesse a página clicand
 
 ## Layout
 
-<img src="/src/img/Desktop.png" alt="resultado">
+<img src="/img/layout.png" alt="resultado">
 
 Feito por Alex Cândido [Linkedin](https://www.linkedin.com/in/alexcndd/)
